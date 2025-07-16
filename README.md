@@ -3,14 +3,14 @@
 - This project investigates the search engine performance of the [Translation Commons](https://translationcommons.org) website. The goal is to identify opportunities for traffic growth and improve technical and on-page SEO.
 
 
-## 📌 Objectives
+Objectives
 - Audit current SEO visibility (indexing, performance, keywords)
 - Analyze traffic channels using Google Analytics
 - Benchmark competitors and identify keyword/content gaps
 - Provide actionable recommendations
 
 
-## 📂 Structure
+Structure
 
 - `/data`: Raw exports from Google Analytics, Ahrefs, etc.
 - `/analysis`: Jupyter notebooks with detailed insights
@@ -18,7 +18,7 @@
 - `/images`: Visuals for SEO funnel, top pages, etc.
 
 
-## 🧰 Tools
+Tools
 
 - Google Analytics 4 (GA4)
 - Ahrefs or Ubersuggest (keyword data)
@@ -26,7 +26,7 @@
 - Jupyter Notebook
 
 
-## 📈 Sample Deliverables
+Sample Deliverables
 
 - Keyword gap analysis
 - Organic traffic funnel
